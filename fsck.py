@@ -1,5 +1,5 @@
 REQUIREMENTS:
-	1)	The DeviceID is correct
+1)	The DeviceID is correct
 2)	All times are in the past, nothing in the future
 3)	Validate that the free block list is accurate this includes
 	a.	Making sure the free block list contains ALL of the free blocks
